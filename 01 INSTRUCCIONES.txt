@@ -1,0 +1,1 @@
+para Ver el menu completo es en login.cpp , el usuario y la contraseña es "admin" 
